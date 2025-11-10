@@ -1,0 +1,5 @@
+# Data vem Git m†ste ignorera 
+__pycache__/ 
+*.pyc 
+.ipynb_checkpoints/ 
+venv/ 
