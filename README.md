@@ -1,6 +1,6 @@
 # Del 1: Hälsostudie_Analys 
 
-I det här projektet försökte jag lösa uppgiften vi fick. Jag försökte verkligen sätta mig in i rollen som dataanalytiker. Det var väldigt intressant men också svårt, med tanke på att det här är första gången jag har gjort den här typen av uppgift självständigt.
+I det här projektet försökte jag analysera uppgiften vi fick. Jag försökte verkligen sätta mig in i rollen som dataanalytiker. Det var väldigt intressant men också svårt, med tanke på att det här är första gången jag har gjort den här typen av uppgift självständigt.
 
 Först gjorde jag bara en grundläggande analys eftersom jag var rädd att jag inte skulle kunna göra allt som krävdes eftersom jag inte har tillräckligt med kunskap, men till slut försökte jag ändå göra allt. Jag hoppas att jag gjorde ett bra val.
 
@@ -19,6 +19,21 @@ Skillnaden kan bero på slumpen.
 
 Det var allt från mig för just nu.
 
+Miljo:
 
+* Python:3.13.7
+* Paket: Pandas,matplotlib,Numpy..
+
+Instruktioner:
+
+Öppna Visual Studio Code eller Jupyter Notebook
+
+Ladda datasetet.
+
+Kör hela koden.
+
+Kolla på histogrammet.
+Programmet ritar ett diagram med fördelningen av systoliskt blodtryck.
+Diagrammet hjälper att se spridningen visuellt.
 
 
