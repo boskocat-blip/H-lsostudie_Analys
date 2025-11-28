@@ -1,4 +1,6 @@
-# Del 1: Hälsostudie_Analys 
+# Del 1 och Del2: Hälsostudie_Analys 
+
+Del1:
 
 I det här projektet försökte jag analysera uppgiften vi fick. Jag försökte verkligen sätta mig in i rollen som dataanalytiker. Det var väldigt intressant men också svårt, med tanke på att det här är första gången jag har gjort den här typen av uppgift självständigt.
 
