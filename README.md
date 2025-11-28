@@ -17,6 +17,18 @@ Hypotes: Rökare har högre genomsnittligt systoliskt blodtryck än icke-rökare
 Det betyder att jag kunde inte bevisa att rökare har högre blodtryck än ickerökare baserat på dessa data.  
 Skillnaden kan bero på slumpen.
 
+
+
+Del2 
+Jag har skrivit koden genom att skapa klassen , (det var jätte svart för mig, men jag hittat en bra sätt, men jag görde bara för G,jag kunde inte göra VG, jag är lite förvirad och osäckert) HealthAnalyzer med metoder för statistik och visualisering.
+
+Linjär Algebra i Praktiken(Linjär Regression): jag använde sklearn.linear_model.LinearRegression för att modellera det linjära sambandet mellan Ålder och Systoliskt Blodtryck. 
+Modellen löser problemet genom att använda matrisberäkningar (minsta kvadratmetoden) för att hitta de koefficienter som minimerar felet.
+
+Resultat: Koefficienten $0.536mmHg/år indikerar att blodtrycket i genomsnitt ökar med cirka $0.54 mmHg för varje levnadsår.
+
+Slutsats: Grafen visar att trots den positiva trenden(röd linje) är punkterna spridda, vilket bekräftar att ålder bara är en av många faktorer som påverkar blodtrycket. Andra variabler, som vikt och rökning, skulle behöva inkluderas i en multipel linjär regressionsmodell för att få en bättre förutsägelse.
+
 Det var allt från mig för just nu.
 
 Miljo:
